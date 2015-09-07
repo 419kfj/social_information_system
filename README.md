@@ -87,3 +87,6 @@ lecture guide for Sakushin Gakuin University's Class
   - ネットストーカーエミル video 
   - ネットストーカー対策 安全ステップアップ 
 - facebookのプライバシー設定
+
+17 参考文献リスト
+- 柴谷篤弘 情報を越えて
